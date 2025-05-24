@@ -1,8 +1,8 @@
 let brown_noise_clicked_status = false; // 使用let定义变量
 let calming_rain_clicked_status = false; // 使用let定义变量
 
-const brown_noise_audio = new Audio("https://raw.githubusercontent.com/kur1k0/kur1k0.github.io/main/brown_noise.mp3"); // 创建音频实例
-const calming_rain_audio = new Audio("https://raw.githubusercontent.com/kur1k0/kur1k0.github.io/main/calming_rain.mp3"); // 创建音频实例
+const brown_noise_audio = new Audio("https://github.com/kur1k0/kur1k0.github.io/raw/refs/heads/main/hsiao_yu/audio/brown_noise.mp3"); // 创建音频实例
+const calming_rain_audio = new Audio("https://github.com/kur1k0/kur1k0.github.io/raw/refs/heads/main/hsiao_yu/audio/calming_rain.mp3"); // 创建音频实例
 
 brown_noise_audio.loop = true;
 
